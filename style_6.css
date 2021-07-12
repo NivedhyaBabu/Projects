@@ -1,0 +1,28 @@
+h2{
+
+    text-align: center;
+    color:darkgreen;
+    text-decoration: underline;
+}
+
+.child{
+color:#2D8060;
+
+}
+.gchild{
+    color:slateblue    
+    }
+
+    body{
+
+        background-color: cornsilk;
+      }
+      p{
+        font-size: 14pt;
+
+
+      }
+      canvas{
+        height:200px;
+        border: 1px solid grey;
+        
