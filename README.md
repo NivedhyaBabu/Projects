@@ -1,2 +1,2 @@
-# imagescaling
-Image can be changed to grayscale or redscale  after uploading
+Hellooo...
+Please have a look at different projects i have done.
